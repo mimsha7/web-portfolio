@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    font-family:'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.name-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;  
+    margin-left: 5%;
+    padding-left: 2%; 
+}
+.half-width img{
+    width: 70%;
+    
+}
+.top-banner{
+    background-image: url(images/banner2.jpg);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 120px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700; 
+}
+.dream-big{
+    background-image: url(images/banner2.jpg);
+    background-repeat: no-repeat;
+    
+}
+.land-mark{
+    color: tomato;
+}
+
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 60%;
+
+}
+.experience-area{
+    background-image: url(images/banner2.jpg);
+    background-repeat: no-repeat;
+    background-color: white;
+}
+#stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+#full{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;  
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
