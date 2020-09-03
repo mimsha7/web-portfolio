@@ -22,7 +22,7 @@ h2{
     
 }
 .top-banner{
-    background-image: url(images/banner2.jpg);
+    background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
 section{
@@ -38,9 +38,9 @@ section{
     font-weight: 700; 
 }
 .dream-big{
-    background-image: url(images/banner2.jpg);
+    background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
-    
+    background-position: right;
 }
 .land-mark{
     color: tomato;
@@ -49,13 +49,15 @@ section{
 .single-experience{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
-    height: 60%;
+    height: 80%;
+    background-color: white;
 
 }
 .experience-area{
-    background-image: url(images/banner2.jpg);
+    background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-color: white;
+    background-position: left;
 }
 #stack{
     border-left: 7px solid;
